@@ -1,1 +1,2 @@
-console.log("hello world");
+// import yout js file here
+import "./javascript/blink"
