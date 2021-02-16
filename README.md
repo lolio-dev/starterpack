@@ -1,7 +1,8 @@
 # html/sass starterpack
 
 Un starter pack pour créer et mettre en place des projets rapide en sass et html
-installer les dépendances 
+
+installer les dépendances: 
 ```
 npm install
 ```
