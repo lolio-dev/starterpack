@@ -11,7 +11,7 @@ lancer le serveur:
 npm run start
 ```
 
-Les fichiers sass/scss sont dans le dossier `src/styles`, il doivent être importé dans le fichier `src/styles.scss`
+Les fichiers sass/scss sont dans le dossier `src/styles`, ils doivent être importés dans le fichier `src/styles.scss`
 
-Pareil pour le javascript, ils doivent être créer dans le dossier `src/javascript` et importer dans le fichier `app.js`
+Pareil pour le javascript, ils doivent être créés dans le dossier `src/javascript` et importés dans le fichier `app.js`
 
